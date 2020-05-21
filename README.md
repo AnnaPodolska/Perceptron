@@ -1,0 +1,2 @@
+# Perceptron
+Przykładowa implementacja perceptronu 
